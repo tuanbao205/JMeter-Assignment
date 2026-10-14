@@ -1,0 +1,6 @@
+# JMeter generated output
+results/*.jtl
+results/html-report/
+*.log
+.DS_Store
+Thumbs.db
